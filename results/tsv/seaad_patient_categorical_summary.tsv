@@ -1,0 +1,50 @@
+variable	n	missing	n_levels_including_missing	reference_level	mode_level	mode_count	mode_fraction
+APOE Genotype	84	0	6	2/2	3/3	47	0.5595238095238095
+Arteriolosclerosis	84	0	3	Mild	Moderate	33	0.39285714285714285
+Atherosclerosis	84	7	4	Mild	Moderate	51	0.6071428571428571
+Braak	84	0	6	Braak 0	Braak V	34	0.40476190476190477
+CERAD score	84	0	4	Absent	Frequent	30	0.35714285714285715
+Cognitive Status	84	0	2	Dementia	Dementia	42	0.5
+Consensus Clinical Dx (choice=Alzheimers Possible/ Probable)	84	0	2	Checked	Unchecked	75	0.8928571428571429
+Consensus Clinical Dx (choice=Alzheimers disease)	84	0	2	Checked	Unchecked	61	0.7261904761904762
+Consensus Clinical Dx (choice=Ataxia)	84	0	1	Unchecked	Unchecked	84	1.0
+Consensus Clinical Dx (choice=Control)	84	0	2	Checked	Unchecked	52	0.6190476190476191
+Consensus Clinical Dx (choice=Corticobasal Degeneration)	84	0	1	Unchecked	Unchecked	84	1.0
+Consensus Clinical Dx (choice=Dementia with Lewy Bodies/ Lewy Body Disease)	84	0	2	Checked	Unchecked	83	0.9880952380952381
+Consensus Clinical Dx (choice=Frontotemporal lobar degeneration)	84	0	1	Unchecked	Unchecked	84	1.0
+Consensus Clinical Dx (choice=Huntingtons disease)	84	0	1	Unchecked	Unchecked	84	1.0
+Consensus Clinical Dx (choice=Motor Neuron disease)	84	0	1	Unchecked	Unchecked	84	1.0
+Consensus Clinical Dx (choice=Multiple System Atrophy)	84	0	2	Checked	Unchecked	83	0.9880952380952381
+Consensus Clinical Dx (choice=Other)	84	0	2	Checked	Unchecked	71	0.8452380952380952
+Consensus Clinical Dx (choice=Parkinsons Cognitive Impairment - no dementia)	84	0	1	Unchecked	Unchecked	84	1.0
+Consensus Clinical Dx (choice=Parkinsons Disease Dementia)	84	0	2	Checked	Unchecked	83	0.9880952380952381
+Consensus Clinical Dx (choice=Parkinsons disease)	84	0	1	Unchecked	Unchecked	84	1.0
+Consensus Clinical Dx (choice=Prion)	84	0	1	Unchecked	Unchecked	84	1.0
+Consensus Clinical Dx (choice=Progressive Supranuclear Palsy)	84	0	1	Unchecked	Unchecked	84	1.0
+Consensus Clinical Dx (choice=Taupathy)	84	0	1	Unchecked	Unchecked	84	1.0
+Consensus Clinical Dx (choice=Unknown)	84	0	2	Checked	Unchecked	72	0.8571428571428571
+Consensus Clinical Dx (choice=Vascular Dementia)	84	0	2	Checked	Unchecked	83	0.9880952380952381
+Ex Vivo Imaging	84	0	2	No	Yes	82	0.9761904761904762
+Have they had neuroimaging	84	0	3	No	Yes	40	0.47619047619047616
+Highest Lewy Body Disease	84	0	7	Amygdala-predominant	Not Identified (olfactory bulb not assessed)	39	0.4642857142857143
+Highest level of education	84	0	5	Bachelors	Graduate (PhD/Masters)	25	0.2976190476190476
+Hispanic/Latino	84	0	3	No	No	82	0.9761904761904762
+If other Consensus dx, describe	84	75	9	Declining cognitive abilities	Missing	75	0.8928571428571429
+Known head injury	84	57	3	Missing	Missing	57	0.6785714285714286
+LATE	84	0	5	LATE Stage 1	LATE Stage 2	36	0.42857142857142855
+Overall AD neuropathological Change	84	0	4	High	High	42	0.5
+Overall CAA Score	84	0	4	Mild	Moderate	36	0.42857142857142855
+Primary Study Name	84	0	2	ACT	ACT	69	0.8214285714285714
+Race (choice=American Indian/ Alaska Native)	84	0	2	Checked	Unchecked	83	0.9880952380952381
+Race (choice=Asian)	84	0	2	Checked	Unchecked	81	0.9642857142857143
+Race (choice=Black/ African American)	84	0	1	Unchecked	Unchecked	84	1.0
+Race (choice=Native Hawaiian or Pacific Islander)	84	0	1	Unchecked	Unchecked	84	1.0
+Race (choice=Other)	84	0	2	Checked	Unchecked	81	0.9642857142857143
+Race (choice=Unknown or unreported)	84	0	1	Unchecked	Unchecked	84	1.0
+Race (choice=White)	84	0	2	Checked	Checked	81	0.9642857142857143
+Rapid Frozen Tissue Type	84	0	1	Precision Slices	Precision Slices	84	1.0
+Secondary Study Name	84	78	3	ADRC Clinical Core	Missing	78	0.9285714285714286
+Severely Affected Donor	84	73	2	Missing	Missing	73	0.8690476190476191
+Sex	84	0	2	Female	Female	51	0.6071428571428571
+Thal	84	0	6	Thal 0	Thal 4	30	0.35714285714285715
+specify other race	84	81	2	Missing	Missing	81	0.9642857142857143

@@ -1,0 +1,50 @@
+variable,model_type,n_samples,n_classes,r_square_reported,misclassification_rate,accuracy,status
+APOE Genotype,decision_tree_classifier,84,6,0.37396508524875594,0.3214285714285714,0.6785714285714286,ok
+Arteriolosclerosis,decision_tree_classifier,84,3,0.3865156331995607,0.29761904761904767,0.7023809523809523,ok
+Atherosclerosis,decision_tree_classifier,84,4,0.28574179135839517,0.30952380952380953,0.6904761904761905,ok
+Braak,decision_tree_classifier,84,6,0.3475007908507607,0.36904761904761907,0.6309523809523809,ok
+CERAD score,decision_tree_classifier,84,4,0.4347122469357255,0.38095238095238093,0.6190476190476191,ok
+Cognitive Status,decision_tree_classifier,84,2,0.8992334113486884,0.0357142857142857,0.9642857142857143,ok
+Consensus Clinical Dx (choice=Alzheimers Possible/ Probable),decision_tree_classifier,84,2,0.3466767307912091,0.1071428571428571,0.8928571428571429,ok
+Consensus Clinical Dx (choice=Alzheimers disease),decision_tree_classifier,84,2,0.6110492690156515,0.11904761904761907,0.8809523809523809,ok
+Consensus Clinical Dx (choice=Ataxia),decision_tree_classifier,84,1,,,,skipped_single_class
+Consensus Clinical Dx (choice=Control),decision_tree_classifier,84,2,0.9397163222157243,0.023809523809523836,0.9761904761904762,ok
+Consensus Clinical Dx (choice=Corticobasal Degeneration),decision_tree_classifier,84,1,,,,skipped_single_class
+Consensus Clinical Dx (choice=Dementia with Lewy Bodies/ Lewy Body Disease),decision_tree_classifier,84,2,0.5387860627661971,0.011904761904761862,0.9880952380952381,ok
+Consensus Clinical Dx (choice=Frontotemporal lobar degeneration),decision_tree_classifier,84,1,,,,skipped_single_class
+Consensus Clinical Dx (choice=Huntingtons disease),decision_tree_classifier,84,1,,,,skipped_single_class
+Consensus Clinical Dx (choice=Motor Neuron disease),decision_tree_classifier,84,1,,,,skipped_single_class
+Consensus Clinical Dx (choice=Multiple System Atrophy),decision_tree_classifier,84,2,0.47080211010594586,0.011904761904761862,0.9880952380952381,ok
+Consensus Clinical Dx (choice=Other),decision_tree_classifier,84,2,0.7483923510105484,0.04761904761904767,0.9523809523809523,ok
+Consensus Clinical Dx (choice=Parkinsons Cognitive Impairment - no dementia),decision_tree_classifier,84,1,,,,skipped_single_class
+Consensus Clinical Dx (choice=Parkinsons Disease Dementia),decision_tree_classifier,84,2,0.538786062766197,0.011904761904761862,0.9880952380952381,ok
+Consensus Clinical Dx (choice=Parkinsons disease),decision_tree_classifier,84,1,,,,skipped_single_class
+Consensus Clinical Dx (choice=Prion),decision_tree_classifier,84,1,,,,skipped_single_class
+Consensus Clinical Dx (choice=Progressive Supranuclear Palsy),decision_tree_classifier,84,1,,,,skipped_single_class
+Consensus Clinical Dx (choice=Taupathy),decision_tree_classifier,84,1,,,,skipped_single_class
+Consensus Clinical Dx (choice=Unknown),decision_tree_classifier,84,2,0.8205313400569476,0.04761904761904767,0.9523809523809523,ok
+Consensus Clinical Dx (choice=Vascular Dementia),decision_tree_classifier,84,2,0.42127537713451835,0.011904761904761862,0.9880952380952381,ok
+Ex Vivo Imaging,decision_tree_classifier,84,2,0.4705486155895352,0.023809523809523836,0.9761904761904762,ok
+Have they had neuroimaging,decision_tree_classifier,84,3,0.33907095297062206,0.29761904761904767,0.7023809523809523,ok
+Highest Lewy Body Disease,decision_tree_classifier,84,7,0.41132299137961026,0.34523809523809523,0.6547619047619048,ok
+Highest level of education,decision_tree_classifier,84,5,0.7746544417837447,0.13095238095238093,0.8690476190476191,ok
+Hispanic/Latino,decision_tree_classifier,84,3,0.5615875927947382,0.023809523809523836,0.9761904761904762,ok
+"If other Consensus dx, describe",decision_tree_classifier,84,9,0.6222391455679122,0.08333333333333337,0.9166666666666666,ok
+Known head injury,decision_tree_classifier,84,3,0.24612759278617158,0.23809523809523814,0.7619047619047619,ok
+LATE,decision_tree_classifier,84,5,0.33720024669742465,0.36904761904761907,0.6309523809523809,ok
+Overall AD neuropathological Change,decision_tree_classifier,84,4,0.5608873496600761,0.23809523809523814,0.7619047619047619,ok
+Overall CAA Score,decision_tree_classifier,84,4,0.3744168223632145,0.3214285714285714,0.6785714285714286,ok
+Primary Study Name,decision_tree_classifier,84,2,0.7161786704387691,0.0714285714285714,0.9285714285714286,ok
+Race (choice=American Indian/ Alaska Native),decision_tree_classifier,84,2,0.5387860627661971,0.011904761904761862,0.9880952380952381,ok
+Race (choice=Asian),decision_tree_classifier,84,2,0.5466780691220618,0.0357142857142857,0.9642857142857143,ok
+Race (choice=Black/ African American),decision_tree_classifier,84,1,,,,skipped_single_class
+Race (choice=Native Hawaiian or Pacific Islander),decision_tree_classifier,84,1,,,,skipped_single_class
+Race (choice=Other),decision_tree_classifier,84,2,0.5466780691220618,0.0357142857142857,0.9642857142857143,ok
+Race (choice=Unknown or unreported),decision_tree_classifier,84,1,,,,skipped_single_class
+Race (choice=White),decision_tree_classifier,84,2,0.5466780691220618,0.0357142857142857,0.9642857142857143,ok
+Rapid Frozen Tissue Type,decision_tree_classifier,84,1,,,,skipped_single_class
+Secondary Study Name,decision_tree_classifier,84,3,0.4945102719561144,0.0714285714285714,0.9285714285714286,ok
+Severely Affected Donor,decision_tree_classifier,84,2,0.6313009070079605,0.08333333333333337,0.9166666666666666,ok
+Sex,decision_tree_classifier,84,2,0.5319544423534848,0.1785714285714286,0.8214285714285714,ok
+Thal,decision_tree_classifier,84,6,0.5840167779305117,0.3928571428571429,0.6071428571428571,ok
+specify other race,decision_tree_classifier,84,2,0.5466780691220618,0.0357142857142857,0.9642857142857143,ok

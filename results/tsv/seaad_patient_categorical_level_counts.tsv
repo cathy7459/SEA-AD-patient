@@ -1,0 +1,128 @@
+variable	level	count	reference_level	fraction
+Primary Study Name	ACT	69	ACT	0.8214285714285714
+Primary Study Name	ADRC Clinical Core	15	ACT	0.17857142857142858
+Secondary Study Name	Missing	78	ADRC Clinical Core	0.9285714285714286
+Secondary Study Name	ADRC Clinical Core	4	ADRC Clinical Core	0.047619047619047616
+Secondary Study Name	SLS	2	ADRC Clinical Core	0.023809523809523808
+Sex	Female	51	Female	0.6071428571428571
+Sex	Male	33	Female	0.39285714285714285
+Race (choice=White)	Checked	81	Checked	0.9642857142857143
+Race (choice=White)	Unchecked	3	Checked	0.03571428571428571
+Race (choice=Black/ African American)	Unchecked	84	Unchecked	1.0
+Race (choice=Asian)	Unchecked	81	Checked	0.9642857142857143
+Race (choice=Asian)	Checked	3	Checked	0.03571428571428571
+Race (choice=American Indian/ Alaska Native)	Unchecked	83	Checked	0.9880952380952381
+Race (choice=American Indian/ Alaska Native)	Checked	1	Checked	0.011904761904761904
+Race (choice=Native Hawaiian or Pacific Islander)	Unchecked	84	Unchecked	1.0
+Race (choice=Unknown or unreported)	Unchecked	84	Unchecked	1.0
+Race (choice=Other)	Unchecked	81	Checked	0.9642857142857143
+Race (choice=Other)	Checked	3	Checked	0.03571428571428571
+specify other race	Missing	81	Missing	0.9642857142857143
+specify other race	Mixed	3	Missing	0.03571428571428571
+Hispanic/Latino	No	82	No	0.9761904761904762
+Hispanic/Latino	Yes	1	No	0.011904761904761904
+Hispanic/Latino	Unknown	1	No	0.011904761904761904
+Highest level of education	Graduate (PhD/Masters)	25	Bachelors	0.2976190476190476
+Highest level of education	Bachelors	22	Bachelors	0.2619047619047619
+Highest level of education	High School	18	Bachelors	0.21428571428571427
+Highest level of education	Trade School/ Tech School	15	Bachelors	0.17857142857142858
+Highest level of education	Professional	4	Bachelors	0.047619047619047616
+APOE Genotype	3/3	47	2/2	0.5595238095238095
+APOE Genotype	3/4	17	2/2	0.20238095238095238
+APOE Genotype	2/3	11	2/2	0.13095238095238096
+APOE Genotype	4/4	6	2/2	0.07142857142857142
+APOE Genotype	2/4	2	2/2	0.023809523809523808
+APOE Genotype	2/2	1	2/2	0.011904761904761904
+Cognitive Status	No dementia	42	Dementia	0.5
+Cognitive Status	Dementia	42	Dementia	0.5
+Known head injury	Missing	57	Missing	0.6785714285714286
+Known head injury	No	17	Missing	0.20238095238095238
+Known head injury	Yes	10	Missing	0.11904761904761904
+Have they had neuroimaging	Yes	40	No	0.47619047619047616
+Have they had neuroimaging	Unknown	38	No	0.4523809523809524
+Have they had neuroimaging	No	6	No	0.07142857142857142
+Consensus Clinical Dx (choice=Alzheimers disease)	Unchecked	61	Checked	0.7261904761904762
+Consensus Clinical Dx (choice=Alzheimers disease)	Checked	23	Checked	0.27380952380952384
+Consensus Clinical Dx (choice=Alzheimers Possible/ Probable)	Unchecked	75	Checked	0.8928571428571429
+Consensus Clinical Dx (choice=Alzheimers Possible/ Probable)	Checked	9	Checked	0.10714285714285714
+Consensus Clinical Dx (choice=Ataxia)	Unchecked	84	Unchecked	1.0
+Consensus Clinical Dx (choice=Corticobasal Degeneration)	Unchecked	84	Unchecked	1.0
+Consensus Clinical Dx (choice=Control)	Unchecked	52	Checked	0.6190476190476191
+Consensus Clinical Dx (choice=Control)	Checked	32	Checked	0.38095238095238093
+Consensus Clinical Dx (choice=Dementia with Lewy Bodies/ Lewy Body Disease)	Unchecked	83	Checked	0.9880952380952381
+Consensus Clinical Dx (choice=Dementia with Lewy Bodies/ Lewy Body Disease)	Checked	1	Checked	0.011904761904761904
+Consensus Clinical Dx (choice=Frontotemporal lobar degeneration)	Unchecked	84	Unchecked	1.0
+Consensus Clinical Dx (choice=Huntingtons disease)	Unchecked	84	Unchecked	1.0
+Consensus Clinical Dx (choice=Motor Neuron disease)	Unchecked	84	Unchecked	1.0
+Consensus Clinical Dx (choice=Multiple System Atrophy)	Unchecked	83	Checked	0.9880952380952381
+Consensus Clinical Dx (choice=Multiple System Atrophy)	Checked	1	Checked	0.011904761904761904
+Consensus Clinical Dx (choice=Parkinsons disease)	Unchecked	84	Unchecked	1.0
+Consensus Clinical Dx (choice=Parkinsons Cognitive Impairment - no dementia)	Unchecked	84	Unchecked	1.0
+Consensus Clinical Dx (choice=Parkinsons Disease Dementia)	Unchecked	83	Checked	0.9880952380952381
+Consensus Clinical Dx (choice=Parkinsons Disease Dementia)	Checked	1	Checked	0.011904761904761904
+Consensus Clinical Dx (choice=Prion)	Unchecked	84	Unchecked	1.0
+Consensus Clinical Dx (choice=Progressive Supranuclear Palsy)	Unchecked	84	Unchecked	1.0
+Consensus Clinical Dx (choice=Taupathy)	Unchecked	84	Unchecked	1.0
+Consensus Clinical Dx (choice=Vascular Dementia)	Unchecked	83	Checked	0.9880952380952381
+Consensus Clinical Dx (choice=Vascular Dementia)	Checked	1	Checked	0.011904761904761904
+Consensus Clinical Dx (choice=Unknown)	Unchecked	72	Checked	0.8571428571428571
+Consensus Clinical Dx (choice=Unknown)	Checked	12	Checked	0.14285714285714285
+Consensus Clinical Dx (choice=Other)	Unchecked	71	Checked	0.8452380952380952
+Consensus Clinical Dx (choice=Other)	Checked	13	Checked	0.15476190476190477
+If other Consensus dx, describe	Missing	75	Declining cognitive abilities	0.8928571428571429
+If other Consensus dx, describe	dementia due to multiple etiologies	2	Declining cognitive abilities	0.023809523809523808
+If other Consensus dx, describe	late onset AD	1	Declining cognitive abilities	0.011904761904761904
+If other Consensus dx, describe	MCI multidomain (amnestic, language, attention, executive, visuospatial)	1	Declining cognitive abilities	0.011904761904761904
+If other Consensus dx, describe	EOAD	1	Declining cognitive abilities	0.011904761904761904
+If other Consensus dx, describe	Note in 2018 OPCA vs MSA?	1	Declining cognitive abilities	0.011904761904761904
+If other Consensus dx, describe	brain mets	1	Declining cognitive abilities	0.011904761904761904
+If other Consensus dx, describe	Declining cognitive abilities	1	Declining cognitive abilities	0.011904761904761904
+If other Consensus dx, describe	dementia related to subdural, has Parkinsonian features	1	Declining cognitive abilities	0.011904761904761904
+Rapid Frozen Tissue Type	Precision Slices	84	Precision Slices	1.0
+Ex Vivo Imaging	Yes	82	No	0.9761904761904762
+Ex Vivo Imaging	No	2	No	0.023809523809523808
+Overall AD neuropathological Change	High	42	High	0.5
+Overall AD neuropathological Change	Intermediate	21	High	0.25
+Overall AD neuropathological Change	Low	12	High	0.14285714285714285
+Overall AD neuropathological Change	Not AD	9	High	0.10714285714285714
+Thal	Thal 4	30	Thal 0	0.35714285714285715
+Thal	Thal 5	21	Thal 0	0.25
+Thal	Thal 3	12	Thal 0	0.14285714285714285
+Thal	Thal 0	9	Thal 0	0.10714285714285714
+Thal	Thal 2	7	Thal 0	0.08333333333333333
+Thal	Thal 1	5	Thal 0	0.05952380952380952
+Braak	Braak V	34	Braak 0	0.40476190476190477
+Braak	Braak IV	23	Braak 0	0.27380952380952384
+Braak	Braak VI	15	Braak 0	0.17857142857142858
+Braak	Braak III	6	Braak 0	0.07142857142857142
+Braak	Braak II	4	Braak 0	0.047619047619047616
+Braak	Braak 0	2	Braak 0	0.023809523809523808
+CERAD score	Frequent	30	Absent	0.35714285714285715
+CERAD score	Moderate	26	Absent	0.30952380952380953
+CERAD score	Absent	16	Absent	0.19047619047619047
+CERAD score	Sparse	12	Absent	0.14285714285714285
+Overall CAA Score	Moderate	36	Mild	0.42857142857142855
+Overall CAA Score	Not identified	33	Mild	0.39285714285714285
+Overall CAA Score	Mild	13	Mild	0.15476190476190477
+Overall CAA Score	Severe	2	Mild	0.023809523809523808
+Highest Lewy Body Disease	Not Identified (olfactory bulb not assessed)	39	Amygdala-predominant	0.4642857142857143
+Highest Lewy Body Disease	Neocortical (Diffuse)	14	Amygdala-predominant	0.16666666666666666
+Highest Lewy Body Disease	Amygdala-predominant	10	Amygdala-predominant	0.11904761904761904
+Highest Lewy Body Disease	Limbic (Transitional)	9	Amygdala-predominant	0.10714285714285714
+Highest Lewy Body Disease	Not Identified (olfactory bulb assessed)	8	Amygdala-predominant	0.09523809523809523
+Highest Lewy Body Disease	Olfactory bulb only	2	Amygdala-predominant	0.023809523809523808
+Highest Lewy Body Disease	Brainstem-predominant	2	Amygdala-predominant	0.023809523809523808
+Atherosclerosis	Moderate	51	Mild	0.6071428571428571
+Atherosclerosis	Mild	22	Mild	0.2619047619047619
+Atherosclerosis	Missing	7	Mild	0.08333333333333333
+Atherosclerosis	Severe	4	Mild	0.047619047619047616
+Arteriolosclerosis	Moderate	33	Mild	0.39285714285714285
+Arteriolosclerosis	Mild	31	Mild	0.36904761904761907
+Arteriolosclerosis	Severe	20	Mild	0.23809523809523808
+LATE	LATE Stage 2	36	LATE Stage 1	0.42857142857142855
+LATE	Not Identified	27	LATE Stage 1	0.32142857142857145
+LATE	LATE Stage 1	15	LATE Stage 1	0.17857142857142858
+LATE	LATE Stage 3	5	LATE Stage 1	0.05952380952380952
+LATE	Unclassifiable	1	LATE Stage 1	0.011904761904761904
+Severely Affected Donor	Missing	73	Missing	0.8690476190476191
+Severely Affected Donor	Y	11	Missing	0.13095238095238096

@@ -1,0 +1,4 @@
+leaf_id,n_samples,majority_class,majority_fraction
+4,71,Missing,1.0
+2,8,Missing,0.5
+3,5,dementia due to multiple etiologies,0.4

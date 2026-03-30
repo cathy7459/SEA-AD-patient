@@ -1,0 +1,9 @@
+leaf_id	n_samples	majority_class	majority_fraction
+3	33	High	0.9696969696969697
+4	18	High	0.5
+11	7	Intermediate	1.0
+10	6	Intermediate	0.5
+7	5	Intermediate	0.6
+6	5	Low	0.8
+13	5	Not AD	0.6
+14	5	Not AD	0.6

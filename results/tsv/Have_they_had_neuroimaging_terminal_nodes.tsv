@@ -1,0 +1,7 @@
+leaf_id	n_samples	majority_class	majority_fraction
+4	38	Yes	0.5
+3	17	Yes	0.8823529411764706
+6	11	Unknown	0.9090909090909091
+10	8	Unknown	1.0
+7	5	Yes	0.8
+9	5	Unknown	0.6

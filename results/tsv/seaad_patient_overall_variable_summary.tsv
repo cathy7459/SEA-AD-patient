@@ -1,0 +1,66 @@
+variable	n	missing	variable_type
+APOE Genotype	84	0	categorical
+Arteriolosclerosis	84	0	categorical
+Atherosclerosis	84	7	categorical
+Braak	84	0	categorical
+CERAD score	84	0	categorical
+Cognitive Status	84	0	categorical
+Consensus Clinical Dx (choice=Alzheimers Possible/ Probable)	84	0	categorical
+Consensus Clinical Dx (choice=Alzheimers disease)	84	0	categorical
+Consensus Clinical Dx (choice=Ataxia)	84	0	categorical
+Consensus Clinical Dx (choice=Control)	84	0	categorical
+Consensus Clinical Dx (choice=Corticobasal Degeneration)	84	0	categorical
+Consensus Clinical Dx (choice=Dementia with Lewy Bodies/ Lewy Body Disease)	84	0	categorical
+Consensus Clinical Dx (choice=Frontotemporal lobar degeneration)	84	0	categorical
+Consensus Clinical Dx (choice=Huntingtons disease)	84	0	categorical
+Consensus Clinical Dx (choice=Motor Neuron disease)	84	0	categorical
+Consensus Clinical Dx (choice=Multiple System Atrophy)	84	0	categorical
+Consensus Clinical Dx (choice=Other)	84	0	categorical
+Consensus Clinical Dx (choice=Parkinsons Cognitive Impairment - no dementia)	84	0	categorical
+Consensus Clinical Dx (choice=Parkinsons Disease Dementia)	84	0	categorical
+Consensus Clinical Dx (choice=Parkinsons disease)	84	0	categorical
+Consensus Clinical Dx (choice=Prion)	84	0	categorical
+Consensus Clinical Dx (choice=Progressive Supranuclear Palsy)	84	0	categorical
+Consensus Clinical Dx (choice=Taupathy)	84	0	categorical
+Consensus Clinical Dx (choice=Unknown)	84	0	categorical
+Consensus Clinical Dx (choice=Vascular Dementia)	84	0	categorical
+Ex Vivo Imaging	84	0	categorical
+Have they had neuroimaging	84	0	categorical
+Highest Lewy Body Disease	84	0	categorical
+Highest level of education	84	0	categorical
+Hispanic/Latino	84	0	categorical
+If other Consensus dx, describe	84	75	categorical
+Known head injury	84	57	categorical
+LATE	84	0	categorical
+Overall AD neuropathological Change	84	0	categorical
+Overall CAA Score	84	0	categorical
+Primary Study Name	84	0	categorical
+Race (choice=American Indian/ Alaska Native)	84	0	categorical
+Race (choice=Asian)	84	0	categorical
+Race (choice=Black/ African American)	84	0	categorical
+Race (choice=Native Hawaiian or Pacific Islander)	84	0	categorical
+Race (choice=Other)	84	0	categorical
+Race (choice=Unknown or unreported)	84	0	categorical
+Race (choice=White)	84	0	categorical
+Rapid Frozen Tissue Type	84	0	categorical
+Secondary Study Name	84	78	categorical
+Severely Affected Donor	84	73	categorical
+Sex	84	0	categorical
+Thal	84	0	categorical
+specify other race	84	81	categorical
+Age at Death	84	0	numeric
+Age of Dementia diagnosis	36	48	numeric
+Age of onset cognitive symptoms	38	46	numeric
+Brain pH	84	0	numeric
+Fresh Brain Weight	83	0	numeric
+Interval from last CASI in months	69	15	numeric
+Interval from last MMSE in months	80	4	numeric
+Interval from last MOCA in months	15	69	numeric
+Last CASI Score	69	15	numeric
+Last MMSE Score	80	4	numeric
+Last MOCA Score	15	69	numeric
+PMI	84	0	numeric
+RIN	84	0	numeric
+Total Microinfarcts (not observed grossly)	84	0	numeric
+Total microinfarcts in screening sections	84	0	numeric
+Years of education	84	0	numeric

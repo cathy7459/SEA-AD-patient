@@ -1,0 +1,5 @@
+leaf_id,n_samples,majority_class,majority_fraction
+4,64,Missing,1.0
+3,7,Missing,0.8571428571428571
+6,7,Missing,0.5714285714285714
+5,6,Missing,0.6666666666666666

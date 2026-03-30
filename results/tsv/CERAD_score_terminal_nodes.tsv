@@ -1,0 +1,6 @@
+leaf_id	n_samples	majority_class	majority_fraction
+4	33	Moderate	0.5454545454545454
+3	27	Sparse	0.4074074074074074
+6	10	Frequent	1.0
+8	9	Absent	1.0
+7	5	Frequent	0.8

@@ -1,0 +1,66 @@
+variable	encoding_type	n_levels_after_encoding
+Primary Study Name	categorical	2
+Secondary Study Name	categorical	3
+Age at Death	numeric_discretized	5
+Sex	categorical	2
+Race (choice=White)	categorical	2
+Race (choice=Black/ African American)	categorical	1
+Race (choice=Asian)	categorical	2
+Race (choice=American Indian/ Alaska Native)	categorical	2
+Race (choice=Native Hawaiian or Pacific Islander)	categorical	1
+Race (choice=Unknown or unreported)	categorical	1
+Race (choice=Other)	categorical	2
+specify other race	categorical	2
+Hispanic/Latino	categorical	3
+Highest level of education	categorical	5
+Years of education	numeric_discretized	5
+APOE Genotype	categorical	6
+Cognitive Status	categorical	2
+Age of onset cognitive symptoms	numeric_discretized	4
+Age of Dementia diagnosis	numeric_discretized	2
+Known head injury	categorical	3
+Have they had neuroimaging	categorical	3
+Consensus Clinical Dx (choice=Alzheimers disease)	categorical	2
+Consensus Clinical Dx (choice=Alzheimers Possible/ Probable)	categorical	2
+Consensus Clinical Dx (choice=Ataxia)	categorical	1
+Consensus Clinical Dx (choice=Corticobasal Degeneration)	categorical	1
+Consensus Clinical Dx (choice=Control)	categorical	2
+Consensus Clinical Dx (choice=Dementia with Lewy Bodies/ Lewy Body Disease)	categorical	2
+Consensus Clinical Dx (choice=Frontotemporal lobar degeneration)	categorical	1
+Consensus Clinical Dx (choice=Huntingtons disease)	categorical	1
+Consensus Clinical Dx (choice=Motor Neuron disease)	categorical	1
+Consensus Clinical Dx (choice=Multiple System Atrophy)	categorical	2
+Consensus Clinical Dx (choice=Parkinsons disease)	categorical	1
+Consensus Clinical Dx (choice=Parkinsons Cognitive Impairment - no dementia)	categorical	1
+Consensus Clinical Dx (choice=Parkinsons Disease Dementia)	categorical	2
+Consensus Clinical Dx (choice=Prion)	categorical	1
+Consensus Clinical Dx (choice=Progressive Supranuclear Palsy)	categorical	1
+Consensus Clinical Dx (choice=Taupathy)	categorical	1
+Consensus Clinical Dx (choice=Vascular Dementia)	categorical	2
+Consensus Clinical Dx (choice=Unknown)	categorical	2
+Consensus Clinical Dx (choice=Other)	categorical	2
+If other Consensus dx, describe	categorical	9
+Last CASI Score	numeric_discretized	5
+Interval from last CASI in months	numeric_discretized	5
+Last MMSE Score	numeric_discretized	5
+Interval from last MMSE in months	numeric_discretized	5
+Last MOCA Score	numeric_discretized	2
+Interval from last MOCA in months	numeric_discretized	2
+PMI	numeric_discretized	5
+Rapid Frozen Tissue Type	categorical	1
+Ex Vivo Imaging	categorical	2
+Fresh Brain Weight	numeric_discretized	5
+Brain pH	numeric_discretized	5
+Overall AD neuropathological Change	categorical	4
+Thal	categorical	6
+Braak	categorical	6
+CERAD score	categorical	4
+Overall CAA Score	categorical	4
+Highest Lewy Body Disease	categorical	7
+Total Microinfarcts (not observed grossly)	numeric_discretized	3
+Total microinfarcts in screening sections	numeric_discretized	2
+Atherosclerosis	categorical	4
+Arteriolosclerosis	categorical	3
+LATE	categorical	5
+RIN	numeric_discretized	5
+Severely Affected Donor	categorical	2

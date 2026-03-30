@@ -1,0 +1,128 @@
+variable	level	reference_level	dummy_column	kept_as_dummy
+Primary Study Name	ACT	ACT		False
+Primary Study Name	ADRC Clinical Core	ACT	Primary_Study_Name=ADRC Clinical Core	True
+Secondary Study Name	ADRC Clinical Core	ADRC Clinical Core		False
+Secondary Study Name	Missing	ADRC Clinical Core	Secondary_Study_Name=Missing	True
+Secondary Study Name	SLS	ADRC Clinical Core	Secondary_Study_Name=SLS	True
+Sex	Female	Female		False
+Sex	Male	Female	Sex=Male	True
+Race (choice=White)	Checked	Checked		False
+Race (choice=White)	Unchecked	Checked	Race_choice-White=Unchecked	True
+Race (choice=Black/ African American)	Unchecked	Unchecked		False
+Race (choice=Asian)	Checked	Checked		False
+Race (choice=Asian)	Unchecked	Checked	Race_choice-Asian=Unchecked	True
+Race (choice=American Indian/ Alaska Native)	Checked	Checked		False
+Race (choice=American Indian/ Alaska Native)	Unchecked	Checked	Race_choice-American_Indian__Alaska_Native=Unchecked	True
+Race (choice=Native Hawaiian or Pacific Islander)	Unchecked	Unchecked		False
+Race (choice=Unknown or unreported)	Unchecked	Unchecked		False
+Race (choice=Other)	Checked	Checked		False
+Race (choice=Other)	Unchecked	Checked	Race_choice-Other=Unchecked	True
+specify other race	Missing	Missing		False
+specify other race	Mixed	Missing	specify_other_race=Mixed	True
+Hispanic/Latino	No	No		False
+Hispanic/Latino	Unknown	No	Hispanic_Latino=Unknown	True
+Hispanic/Latino	Yes	No	Hispanic_Latino=Yes	True
+Highest level of education	Bachelors	Bachelors		False
+Highest level of education	Graduate (PhD/Masters)	Bachelors	Highest_level_of_education=Graduate (PhD/Masters)	True
+Highest level of education	High School	Bachelors	Highest_level_of_education=High School	True
+Highest level of education	Professional	Bachelors	Highest_level_of_education=Professional	True
+Highest level of education	Trade School/ Tech School	Bachelors	Highest_level_of_education=Trade School/ Tech School	True
+APOE Genotype	2/2	2/2		False
+APOE Genotype	2/3	2/2	APOE_Genotype=2/3	True
+APOE Genotype	2/4	2/2	APOE_Genotype=2/4	True
+APOE Genotype	3/3	2/2	APOE_Genotype=3/3	True
+APOE Genotype	3/4	2/2	APOE_Genotype=3/4	True
+APOE Genotype	4/4	2/2	APOE_Genotype=4/4	True
+Cognitive Status	Dementia	Dementia		False
+Cognitive Status	No dementia	Dementia	Cognitive_Status=No dementia	True
+Known head injury	Missing	Missing		False
+Known head injury	No	Missing	Known_head_injury=No	True
+Known head injury	Yes	Missing	Known_head_injury=Yes	True
+Have they had neuroimaging	No	No		False
+Have they had neuroimaging	Unknown	No	Have_they_had_neuroimaging=Unknown	True
+Have they had neuroimaging	Yes	No	Have_they_had_neuroimaging=Yes	True
+Consensus Clinical Dx (choice=Alzheimers disease)	Checked	Checked		False
+Consensus Clinical Dx (choice=Alzheimers disease)	Unchecked	Checked	Consensus_Clinical_Dx_choice-Alzheimers_disease=Unchecked	True
+Consensus Clinical Dx (choice=Alzheimers Possible/ Probable)	Checked	Checked		False
+Consensus Clinical Dx (choice=Alzheimers Possible/ Probable)	Unchecked	Checked	Consensus_Clinical_Dx_choice-Alzheimers_Possible__Probable=Unchecked	True
+Consensus Clinical Dx (choice=Ataxia)	Unchecked	Unchecked		False
+Consensus Clinical Dx (choice=Corticobasal Degeneration)	Unchecked	Unchecked		False
+Consensus Clinical Dx (choice=Control)	Checked	Checked		False
+Consensus Clinical Dx (choice=Control)	Unchecked	Checked	Consensus_Clinical_Dx_choice-Control=Unchecked	True
+Consensus Clinical Dx (choice=Dementia with Lewy Bodies/ Lewy Body Disease)	Checked	Checked		False
+Consensus Clinical Dx (choice=Dementia with Lewy Bodies/ Lewy Body Disease)	Unchecked	Checked	Consensus_Clinical_Dx_choice-Dementia_with_Lewy_Bodies__Lewy_Body_Disease=Unchecked	True
+Consensus Clinical Dx (choice=Frontotemporal lobar degeneration)	Unchecked	Unchecked		False
+Consensus Clinical Dx (choice=Huntingtons disease)	Unchecked	Unchecked		False
+Consensus Clinical Dx (choice=Motor Neuron disease)	Unchecked	Unchecked		False
+Consensus Clinical Dx (choice=Multiple System Atrophy)	Checked	Checked		False
+Consensus Clinical Dx (choice=Multiple System Atrophy)	Unchecked	Checked	Consensus_Clinical_Dx_choice-Multiple_System_Atrophy=Unchecked	True
+Consensus Clinical Dx (choice=Parkinsons disease)	Unchecked	Unchecked		False
+Consensus Clinical Dx (choice=Parkinsons Cognitive Impairment - no dementia)	Unchecked	Unchecked		False
+Consensus Clinical Dx (choice=Parkinsons Disease Dementia)	Checked	Checked		False
+Consensus Clinical Dx (choice=Parkinsons Disease Dementia)	Unchecked	Checked	Consensus_Clinical_Dx_choice-Parkinsons_Disease_Dementia=Unchecked	True
+Consensus Clinical Dx (choice=Prion)	Unchecked	Unchecked		False
+Consensus Clinical Dx (choice=Progressive Supranuclear Palsy)	Unchecked	Unchecked		False
+Consensus Clinical Dx (choice=Taupathy)	Unchecked	Unchecked		False
+Consensus Clinical Dx (choice=Vascular Dementia)	Checked	Checked		False
+Consensus Clinical Dx (choice=Vascular Dementia)	Unchecked	Checked	Consensus_Clinical_Dx_choice-Vascular_Dementia=Unchecked	True
+Consensus Clinical Dx (choice=Unknown)	Checked	Checked		False
+Consensus Clinical Dx (choice=Unknown)	Unchecked	Checked	Consensus_Clinical_Dx_choice-Unknown=Unchecked	True
+Consensus Clinical Dx (choice=Other)	Checked	Checked		False
+Consensus Clinical Dx (choice=Other)	Unchecked	Checked	Consensus_Clinical_Dx_choice-Other=Unchecked	True
+If other Consensus dx, describe	Declining cognitive abilities	Declining cognitive abilities		False
+If other Consensus dx, describe	EOAD	Declining cognitive abilities	If_other_Consensus_dx_describe=EOAD	True
+If other Consensus dx, describe	MCI multidomain (amnestic, language, attention, executive, visuospatial)	Declining cognitive abilities	If_other_Consensus_dx_describe=MCI multidomain (amnestic, language, attention, executive, visuospatial)	True
+If other Consensus dx, describe	Missing	Declining cognitive abilities	If_other_Consensus_dx_describe=Missing	True
+If other Consensus dx, describe	Note in 2018 OPCA vs MSA?	Declining cognitive abilities	If_other_Consensus_dx_describe=Note in 2018 OPCA vs MSA?	True
+If other Consensus dx, describe	brain mets	Declining cognitive abilities	If_other_Consensus_dx_describe=brain mets	True
+If other Consensus dx, describe	dementia due to multiple etiologies	Declining cognitive abilities	If_other_Consensus_dx_describe=dementia due to multiple etiologies	True
+If other Consensus dx, describe	dementia related to subdural, has Parkinsonian features	Declining cognitive abilities	If_other_Consensus_dx_describe=dementia related to subdural, has Parkinsonian features	True
+If other Consensus dx, describe	late onset AD	Declining cognitive abilities	If_other_Consensus_dx_describe=late onset AD	True
+Rapid Frozen Tissue Type	Precision Slices	Precision Slices		False
+Ex Vivo Imaging	No	No		False
+Ex Vivo Imaging	Yes	No	Ex_Vivo_Imaging=Yes	True
+Overall AD neuropathological Change	High	High		False
+Overall AD neuropathological Change	Intermediate	High	Overall_AD_neuropathological_Change=Intermediate	True
+Overall AD neuropathological Change	Low	High	Overall_AD_neuropathological_Change=Low	True
+Overall AD neuropathological Change	Not AD	High	Overall_AD_neuropathological_Change=Not AD	True
+Thal	Thal 0	Thal 0		False
+Thal	Thal 1	Thal 0	Thal=Thal 1	True
+Thal	Thal 2	Thal 0	Thal=Thal 2	True
+Thal	Thal 3	Thal 0	Thal=Thal 3	True
+Thal	Thal 4	Thal 0	Thal=Thal 4	True
+Thal	Thal 5	Thal 0	Thal=Thal 5	True
+Braak	Braak 0	Braak 0		False
+Braak	Braak II	Braak 0	Braak=Braak II	True
+Braak	Braak III	Braak 0	Braak=Braak III	True
+Braak	Braak IV	Braak 0	Braak=Braak IV	True
+Braak	Braak V	Braak 0	Braak=Braak V	True
+Braak	Braak VI	Braak 0	Braak=Braak VI	True
+CERAD score	Absent	Absent		False
+CERAD score	Frequent	Absent	CERAD_score=Frequent	True
+CERAD score	Moderate	Absent	CERAD_score=Moderate	True
+CERAD score	Sparse	Absent	CERAD_score=Sparse	True
+Overall CAA Score	Mild	Mild		False
+Overall CAA Score	Moderate	Mild	Overall_CAA_Score=Moderate	True
+Overall CAA Score	Not identified	Mild	Overall_CAA_Score=Not identified	True
+Overall CAA Score	Severe	Mild	Overall_CAA_Score=Severe	True
+Highest Lewy Body Disease	Amygdala-predominant	Amygdala-predominant		False
+Highest Lewy Body Disease	Brainstem-predominant	Amygdala-predominant	Highest_Lewy_Body_Disease=Brainstem-predominant	True
+Highest Lewy Body Disease	Limbic (Transitional)	Amygdala-predominant	Highest_Lewy_Body_Disease=Limbic (Transitional)	True
+Highest Lewy Body Disease	Neocortical (Diffuse)	Amygdala-predominant	Highest_Lewy_Body_Disease=Neocortical (Diffuse)	True
+Highest Lewy Body Disease	Not Identified (olfactory bulb assessed)	Amygdala-predominant	Highest_Lewy_Body_Disease=Not Identified (olfactory bulb assessed)	True
+Highest Lewy Body Disease	Not Identified (olfactory bulb not assessed)	Amygdala-predominant	Highest_Lewy_Body_Disease=Not Identified (olfactory bulb not assessed)	True
+Highest Lewy Body Disease	Olfactory bulb only	Amygdala-predominant	Highest_Lewy_Body_Disease=Olfactory bulb only	True
+Atherosclerosis	Mild	Mild		False
+Atherosclerosis	Missing	Mild	Atherosclerosis=Missing	True
+Atherosclerosis	Moderate	Mild	Atherosclerosis=Moderate	True
+Atherosclerosis	Severe	Mild	Atherosclerosis=Severe	True
+Arteriolosclerosis	Mild	Mild		False
+Arteriolosclerosis	Moderate	Mild	Arteriolosclerosis=Moderate	True
+Arteriolosclerosis	Severe	Mild	Arteriolosclerosis=Severe	True
+LATE	LATE Stage 1	LATE Stage 1		False
+LATE	LATE Stage 2	LATE Stage 1	LATE=LATE Stage 2	True
+LATE	LATE Stage 3	LATE Stage 1	LATE=LATE Stage 3	True
+LATE	Not Identified	LATE Stage 1	LATE=Not Identified	True
+LATE	Unclassifiable	LATE Stage 1	LATE=Unclassifiable	True
+Severely Affected Donor	Missing	Missing		False
+Severely Affected Donor	Y	Missing	Severely_Affected_Donor=Y	True

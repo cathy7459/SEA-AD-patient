@@ -1,0 +1,50 @@
+variable,dendrogram_status
+APOE Genotype,ok
+Arteriolosclerosis,ok
+Atherosclerosis,ok
+Braak,ok
+CERAD score,ok
+Cognitive Status,ok
+Consensus Clinical Dx (choice=Alzheimers Possible/ Probable),ok
+Consensus Clinical Dx (choice=Alzheimers disease),ok
+Consensus Clinical Dx (choice=Ataxia),not_enough_levels
+Consensus Clinical Dx (choice=Control),ok
+Consensus Clinical Dx (choice=Corticobasal Degeneration),not_enough_levels
+Consensus Clinical Dx (choice=Dementia with Lewy Bodies/ Lewy Body Disease),ok
+Consensus Clinical Dx (choice=Frontotemporal lobar degeneration),not_enough_levels
+Consensus Clinical Dx (choice=Huntingtons disease),not_enough_levels
+Consensus Clinical Dx (choice=Motor Neuron disease),not_enough_levels
+Consensus Clinical Dx (choice=Multiple System Atrophy),ok
+Consensus Clinical Dx (choice=Other),ok
+Consensus Clinical Dx (choice=Parkinsons Cognitive Impairment - no dementia),not_enough_levels
+Consensus Clinical Dx (choice=Parkinsons Disease Dementia),ok
+Consensus Clinical Dx (choice=Parkinsons disease),not_enough_levels
+Consensus Clinical Dx (choice=Prion),not_enough_levels
+Consensus Clinical Dx (choice=Progressive Supranuclear Palsy),not_enough_levels
+Consensus Clinical Dx (choice=Taupathy),not_enough_levels
+Consensus Clinical Dx (choice=Unknown),ok
+Consensus Clinical Dx (choice=Vascular Dementia),ok
+Ex Vivo Imaging,ok
+Have they had neuroimaging,ok
+Highest Lewy Body Disease,ok
+Highest level of education,ok
+Hispanic/Latino,ok
+"If other Consensus dx, describe",ok
+Known head injury,ok
+LATE,ok
+Overall AD neuropathological Change,ok
+Overall CAA Score,ok
+Primary Study Name,ok
+Race (choice=American Indian/ Alaska Native),ok
+Race (choice=Asian),ok
+Race (choice=Black/ African American),not_enough_levels
+Race (choice=Native Hawaiian or Pacific Islander),not_enough_levels
+Race (choice=Other),ok
+Race (choice=Unknown or unreported),not_enough_levels
+Race (choice=White),ok
+Rapid Frozen Tissue Type,not_enough_levels
+Secondary Study Name,ok
+Severely Affected Donor,ok
+Sex,ok
+Thal,ok
+specify other race,ok

@@ -1,0 +1,8 @@
+leaf_id,n_samples,majority_class,majority_fraction
+8,25,Not Identified (olfactory bulb not assessed),0.88
+11,20,Not Identified (olfactory bulb not assessed),0.55
+4,13,Neocortical (Diffuse),0.6153846153846154
+9,7,Not Identified (olfactory bulb not assessed),0.5714285714285714
+12,7,Neocortical (Diffuse),0.5714285714285714
+5,6,Not Identified (olfactory bulb assessed),0.3333333333333333
+2,6,Limbic (Transitional),0.6666666666666666

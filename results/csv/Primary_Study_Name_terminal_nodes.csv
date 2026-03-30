@@ -1,0 +1,6 @@
+leaf_id,n_samples,majority_class,majority_fraction
+6,60,ACT,1.0
+8,9,ADRC Clinical Core,0.5555555555555556
+2,5,ADRC Clinical Core,1.0
+3,5,ADRC Clinical Core,0.8
+7,5,ACT,0.8

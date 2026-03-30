@@ -1,0 +1,8 @@
+leaf_id	n_samples	majority_class	majority_fraction
+11	34	Not Identified	0.6176470588235294
+12	15	LATE Stage 1	0.5333333333333333
+8	11	LATE Stage 2	0.6363636363636364
+5	8	LATE Stage 2	1.0
+9	6	LATE Stage 1	0.5
+4	5	LATE Stage 2	0.8
+2	5	LATE Stage 2	0.4

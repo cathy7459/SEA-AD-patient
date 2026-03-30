@@ -1,0 +1,5 @@
+leaf_id,n_samples,majority_class,majority_fraction
+1,42,Unchecked,1.0
+5,29,Checked,1.0
+3,8,Unchecked,1.0
+6,5,Checked,0.6

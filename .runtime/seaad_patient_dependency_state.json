@@ -1,0 +1,10 @@
+{
+  "pandas": "pandas",
+  "matplotlib": "matplotlib",
+  "numpy": "numpy",
+  "networkx": "networkx",
+  "seaborn": "seaborn",
+  "sklearn": "scikit-learn",
+  "scipy": "scipy",
+  "openpyxl": "openpyxl"
+}

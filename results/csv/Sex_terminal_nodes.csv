@@ -1,0 +1,7 @@
+leaf_id,n_samples,majority_class,majority_fraction
+4,35,Female,0.9714285714285714
+9,19,Female,0.5263157894736842
+7,12,Male,1.0
+5,8,Female,0.625
+2,5,Male,0.6
+10,5,Male,1.0

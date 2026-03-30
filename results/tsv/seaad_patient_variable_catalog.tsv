@@ -1,0 +1,67 @@
+variable	role	inferred_type	n_non_missing	n_missing	n_unique_non_missing	numeric_parse_ratio
+Donor ID	identifier	identifier	84	0	84	0.0
+Primary Study Name	analysis	categorical	84	0	2	0.0
+Secondary Study Name	analysis	categorical	6	78	2	0.0
+Age at Death	analysis	numeric	84	0	30	1.0
+Sex	analysis	categorical	84	0	2	0.0
+Race (choice=White)	analysis	categorical	84	0	2	0.0
+Race (choice=Black/ African American)	analysis	categorical	84	0	1	0.0
+Race (choice=Asian)	analysis	categorical	84	0	2	0.0
+Race (choice=American Indian/ Alaska Native)	analysis	categorical	84	0	2	0.0
+Race (choice=Native Hawaiian or Pacific Islander)	analysis	categorical	84	0	1	0.0
+Race (choice=Unknown or unreported)	analysis	categorical	84	0	1	0.0
+Race (choice=Other)	analysis	categorical	84	0	2	0.0
+specify other race	analysis	categorical	3	81	1	0.0
+Hispanic/Latino	analysis	categorical	84	0	3	0.0
+Highest level of education	analysis	categorical	84	0	5	0.0
+Years of education	analysis	numeric	84	0	10	1.0
+APOE Genotype	analysis	categorical	84	0	6	0.0
+Cognitive Status	analysis	categorical	84	0	2	0.0
+Age of onset cognitive symptoms	analysis	numeric	38	46	22	0.4523809523809524
+Age of Dementia diagnosis	analysis	numeric	36	48	18	0.42857142857142855
+Known head injury	analysis	categorical	27	57	2	0.0
+Have they had neuroimaging	analysis	categorical	84	0	3	0.0
+Consensus Clinical Dx (choice=Alzheimers disease)	analysis	categorical	84	0	2	0.0
+Consensus Clinical Dx (choice=Alzheimers Possible/ Probable)	analysis	categorical	84	0	2	0.0
+Consensus Clinical Dx (choice=Ataxia)	analysis	categorical	84	0	1	0.0
+Consensus Clinical Dx (choice=Corticobasal Degeneration)	analysis	categorical	84	0	1	0.0
+Consensus Clinical Dx (choice=Control)	analysis	categorical	84	0	2	0.0
+Consensus Clinical Dx (choice=Dementia with Lewy Bodies/ Lewy Body Disease)	analysis	categorical	84	0	2	0.0
+Consensus Clinical Dx (choice=Frontotemporal lobar degeneration)	analysis	categorical	84	0	1	0.0
+Consensus Clinical Dx (choice=Huntingtons disease)	analysis	categorical	84	0	1	0.0
+Consensus Clinical Dx (choice=Motor Neuron disease)	analysis	categorical	84	0	1	0.0
+Consensus Clinical Dx (choice=Multiple System Atrophy)	analysis	categorical	84	0	2	0.0
+Consensus Clinical Dx (choice=Parkinsons disease)	analysis	categorical	84	0	1	0.0
+Consensus Clinical Dx (choice=Parkinsons Cognitive Impairment - no dementia)	analysis	categorical	84	0	1	0.0
+Consensus Clinical Dx (choice=Parkinsons Disease Dementia)	analysis	categorical	84	0	2	0.0
+Consensus Clinical Dx (choice=Prion)	analysis	categorical	84	0	1	0.0
+Consensus Clinical Dx (choice=Progressive Supranuclear Palsy)	analysis	categorical	84	0	1	0.0
+Consensus Clinical Dx (choice=Taupathy)	analysis	categorical	84	0	1	0.0
+Consensus Clinical Dx (choice=Vascular Dementia)	analysis	categorical	84	0	2	0.0
+Consensus Clinical Dx (choice=Unknown)	analysis	categorical	84	0	2	0.0
+Consensus Clinical Dx (choice=Other)	analysis	categorical	84	0	2	0.0
+If other Consensus dx, describe	analysis	categorical	9	75	8	0.0
+Last CASI Score	analysis	numeric	69	15	29	0.8214285714285714
+Interval from last CASI in months	analysis	numeric	69	15	60	0.8214285714285714
+Last MMSE Score	analysis	numeric	80	4	18	0.9523809523809523
+Interval from last MMSE in months	analysis	numeric	80	4	70	0.9523809523809523
+Last MOCA Score	analysis	numeric	15	69	10	0.17857142857142858
+Interval from last MOCA in months	analysis	numeric	15	69	14	0.17857142857142858
+PMI	analysis	numeric	84	0	60	1.0
+Rapid Frozen Tissue Type	analysis	categorical	84	0	1	0.0
+Ex Vivo Imaging	analysis	categorical	84	0	2	0.0
+Fresh Brain Weight	analysis	numeric	84	0	74	0.9880952380952381
+Brain pH	analysis	numeric	84	0	14	1.0
+Overall AD neuropathological Change	analysis	categorical	84	0	4	0.0
+Thal	analysis	categorical	84	0	6	0.0
+Braak	analysis	categorical	84	0	6	0.0
+CERAD score	analysis	categorical	84	0	4	0.0
+Overall CAA Score	analysis	categorical	84	0	4	0.0
+Highest Lewy Body Disease	analysis	categorical	84	0	7	0.0
+Total Microinfarcts (not observed grossly)	analysis	numeric	84	0	10	1.0
+Total microinfarcts in screening sections	analysis	numeric	84	0	9	1.0
+Atherosclerosis	analysis	categorical	77	7	3	0.0
+Arteriolosclerosis	analysis	categorical	84	0	3	0.0
+LATE	analysis	categorical	84	0	5	0.0
+RIN	analysis	numeric	84	0	65	1.0
+Severely Affected Donor	analysis	categorical	11	73	1	0.0

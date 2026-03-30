@@ -1,0 +1,6 @@
+leaf_id,n_samples,majority_class,majority_fraction
+7,35,Dementia,1.0
+1,32,No dementia,1.0
+4,7,No dementia,1.0
+5,5,Dementia,0.8
+8,5,Dementia,0.6

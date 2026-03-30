@@ -1,0 +1,6 @@
+leaf_id	n_samples	majority_class	majority_fraction
+7	45	Braak IV	0.4888888888888889
+8	14	Braak V	0.6428571428571429
+5	11	Braak V	1.0
+1	8	Braak VI	1.0
+4	6	Braak V	0.5

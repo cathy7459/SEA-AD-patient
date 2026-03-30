@@ -1,0 +1,8 @@
+leaf_id,n_samples,majority_class,majority_fraction
+3,23,Mild,0.6956521739130435
+9,16,Mild,0.5
+4,14,Severe,0.6428571428571429
+11,11,Moderate,1.0
+8,9,Severe,0.7777777777777778
+5,6,Moderate,0.8333333333333334
+12,5,Moderate,0.6
