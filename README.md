@@ -71,7 +71,7 @@ SEA-AD-patient/
 ├─ 04_run_seaad_patient_association.bat
 ├─ LICENSE
 └─ README.md
-
+```
 
 # SEA-AD Patient Metadata Analysis
 
